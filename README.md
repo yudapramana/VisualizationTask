@@ -14,4 +14,6 @@ To run the projects on local computer, you have to run it from live-server.
 	+ If you use Mac OS. On the Terminal go to the projects folder and run 
 						"python -m SimpleHTTPServer"
 			Then, run it from the serving host and ports
+
+
 	+ If you using Visual Studio Code, you can use Live-Server Package by search it from the Visual Studio Code Package Manager.
