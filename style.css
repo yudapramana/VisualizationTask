@@ -17,7 +17,7 @@ body small {
 
 .container {
 	width: 900px;
-  margin: auto;
+  margin: auto !important
   position: relative;
   margin: 30px 30px 30px 30px;
 }
